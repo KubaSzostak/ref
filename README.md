@@ -7,4 +7,3 @@ Update ref links list by editing [_redirects](_redirects) file.
 
 Check it live: 
 - <https://ref.netlify.com>
-- <https://ref.netlify.com/mgm>
